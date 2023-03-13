@@ -1,6 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm MR.MIVI</h1>
-<h3 align="center">I'am From Bangladesh</h3>
+<p align="center"><img src="https://img.shields.io/badge/I'%20am BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+
 
 </i></b></h3>
 <h3 align="center">
