@@ -16,6 +16,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+MR.+MIVI;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅𝙴+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
+<img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
@@ -89,7 +93,7 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
-[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=MIVI404cyberr&theme=react-dark&area=true&hide_border=true)](https://github.com/MIVI404cyber/github-readme-activity-graph)
+[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=MIVI404cyber&theme=react-dark&area=true&hide_border=true)](https://github.com/MIVI404cyber/github-readme-activity-graph)
 
 <a href="https://github.com/MIVI404cyber/Rm-Paid.git"><img title="Rm-Paid" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Rm-Paid&theme=gotham"></a>
 <a href="https://github.com/MIVI404cyber/Random_Free.git"><img title="Random_Free" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Random_Free&theme=gotham"></a>
