@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm MR.MIVI</h1>
 <p align="center"><img src="https://img.shields.io/badge/I'%20am BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
-<a class="github-button" href="https://github.com/Shikder-Cyber-404" data-size="large" aria-label="Follow @Shikder-Cyber-404 on GitHub">Follow @Shikder-Cyber-404</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
 </i></b></h3>
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
