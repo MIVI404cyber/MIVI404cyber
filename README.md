@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm MR.MIVI</h1>
 <p align="center"><img src="https://img.shields.io/badge/I'%20am BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
+<a class="github-button" href="https://github.com/MIVI404cyber" data-size="large" aria-label="Follow @MIVI404cyber on GitHub">Follow @MIVI404cyber</a>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 </i></b></h3>
 <h3 align="center">
