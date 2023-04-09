@@ -39,7 +39,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- Kono Friend Nai 😭😭😭😭😭
+- 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- KgHasan & Turag-Cyber-404
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
