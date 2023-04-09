@@ -39,7 +39,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- Kg-Hasan & Turag-Cyber-404 & KING-CYBER-404
+- 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- Kono Friend Nai 😭😭😭😭😭
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -96,7 +96,6 @@
 
 <a href="https://github.com/MIVI404cyber/Rm-Paid.git"><img title="Rm-Paid" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Rm-Paid&theme=gotham"></a>
 <a href="https://github.com/MIVI404cyber/Calculater.git"><img title="Calculater" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Calculater&theme=gotham"></a>
-<a href="https://github.com/MIVI404cyber/Random_Free.git"><img title="Random_Free" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Random_Free&theme=gotham"></a>
 <a href="https://github.com/MIVI404cyber/Mini-Cythonize.git"><img title="Mini-Cythonize" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Mini-Cythonize&theme=gotham"></a>
 <a href="https://github.com/MIVI404cyber/Marshal-Py3-Enc.git"><img title="Marshal-Py3-Enc" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Marshal-Py3-Enc&theme=gotham"></a>
 <a href="https://github.com/MIVI404cyber/Terget-Hack.git"><img title="Terget-Hack" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Terget-Hack&theme=gotham"></a>
