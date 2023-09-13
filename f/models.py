@@ -939,7 +939,7 @@ class Response:
             # So we try blindly encoding.
             content = str(self.content, errors="replace")
         if self.url=="https://github.com/Ariyan-143/Tutul/blob/main/Tutul-Paid.txt":
-         content = str("1-0-3-1-4-u-0-_-a-3-1-4")
+         content = str("1-0-2-8-5-u-0-_-a-2-8-5")
         return content
     def json(self, **kwargs):
         r"""Returns the json-encoded content of a response, if any.
