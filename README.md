@@ -39,10 +39,6 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- KgHasan & Turag-Cyber-404
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
 - ☞︎︎︎ 𝙸𝙽𝚂𝙻𝙸𝚁𝙰𝚃𝙸𝙾𝙽 :- 𝙼𝚈𝚂𝙴𝙻𝙵
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
@@ -55,11 +51,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺  𝙵𝙰𝙶𝙴 :- [The Ghost Hacker bd](https://www.facebook.com/TheGhostHackerbd)
+- ➪𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺  𝙵𝙰𝙶𝙴 :- [MR.MIVI,,Script Gift Zone](https://www.facebook.com/MRMIVIScriptGiftZone)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙶𝚁𝚄𝙿 :- [TMS-KING-TERMUX-COMMAND](https://www.facebook.com/groups/552331343458209)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙶𝚁𝚄𝙿 :- [MR.MIVI,,Termux help Zone](https://www.facebook.com/groups/139176269112971)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -67,7 +63,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :- [The Ghost Hacker bd](https://youtube.com/@theghosthackerbd2260)
+- ➪ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :- [MR_MIVI OFFICIAL](https://youtube.com/@mrmiviofficial)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -92,16 +88,13 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
-[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=MIVI404cyber&theme=react-dark&area=true&hide_border=true)](https://github.com/MIVI404cyber/github-readme-activity-graph)
 
 <a href="https://github.com/MIVI404cyber/Rm-Paid.git"><img title="Rm-Paid" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Rm-Paid&theme=gotham"></a>
 <a href="https://github.com/MIVI404cyber/Calculater.git"><img title="Calculater" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Calculater&theme=gotham"></a>
 <a href="https://github.com/MIVI404cyber/Mini-Cythonize.git"><img title="Mini-Cythonize" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Mini-Cythonize&theme=gotham"></a>
 <a href="https://github.com/MIVI404cyber/Marshal-Py3-Enc.git"><img title="Marshal-Py3-Enc" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Marshal-Py3-Enc&theme=gotham"></a>
-<a href="https://github.com/MIVI404cyber/Terget-Hack.git"><img title="Terget-Hack" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Terget-Hack&theme=gotham"></a>
 <a href="https://github.com/MIVI404cyber/Bit-Checker.git"><img title="Bit-Checker" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Bit-Checker&theme=gotham"></a>
 <a href="https://github.com/MIVI404cyber/Temp-Mail.git"><img title="Temp-Mail" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Temp-Mail&theme=gotham"></a>
 <a href="https://github.com/MIVI404cyber/User-Agents-genaretor.git"><img title="User-Agents-genaretor" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=User-Agents-genaretor&theme=gotham"></a>
 <a href="https://github.com/MIVI404cyber/Emoji-Encrepter.git"><img title="Emoji-Encrepter" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=Emoji-Encrepter&theme=gotham"></a>
 <a href="https://github.com/MIVI404cyber/booster_pro.git"><img title="booster_pro" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=booster_pro&theme=gotham"></a>
-<a href="https://github.com/MIVI404cyber/cython-311.so.git"><img title="cython-311.so" src="https://github-readme-stats.vercel.app/api/pin/?username=MIVI404cyber&repo=cython-311.so&theme=gotham"></a>
