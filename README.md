@@ -47,7 +47,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [R(Raj Putro)](https://www.facebook.com/mr.rohman.129)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [R(Raj Putro)](https://www.facebook.com/bujonadudukao)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -56,10 +56,6 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙶𝚁𝚄𝙿 :- [MR.MIVI,,Termux help Zone](https://www.facebook.com/groups/139176269112971)
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- ➪ 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 :- [MR.MIVI](https://www.instagram.com/mrrohman092)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
